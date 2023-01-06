@@ -1,0 +1,69 @@
+# FIXED
+
+helperfunctions.obj: ../helperfunctions.c
+helperfunctions.obj: C:/ECE2049_labs/ece2049a21_lab3_swkarkache_nvborrello/peripherals.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/ccs_base/msp430/include/msp430.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/ccs_base/msp430/include/msp430f5529.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/ccs_base/msp430/include/in430.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/intrinsics.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/intrinsics_legacy_undefs.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/stdint.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/_ti_config.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/linkage.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/_stdint40.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/sys/stdint.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/sys/cdefs.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/sys/_types.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/machine/_types.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/machine/_stdint.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/sys/_stdint.h
+helperfunctions.obj: C:/ECE2049_labs/ece2049a21_lab3_swkarkache_nvborrello/grlib/grlib.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/stdbool.h
+helperfunctions.obj: C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/assert.h
+helperfunctions.obj: C:/ECE2049_labs/ece2049a21_lab3_swkarkache_nvborrello/LcdDriver/Sharp96x96.h
+helperfunctions.obj: C:/ECE2049_labs/ece2049a21_lab3_swkarkache_nvborrello/LcdDriver/HAL_MSP_EXP430FR5529_Sharp96x96.h
+
+../helperfunctions.c:
+
+C:/ECE2049_labs/ece2049a21_lab3_swkarkache_nvborrello/peripherals.h:
+
+C:/ti/ccs1040/ccs/ccs_base/msp430/include/msp430.h:
+
+C:/ti/ccs1040/ccs/ccs_base/msp430/include/msp430f5529.h:
+
+C:/ti/ccs1040/ccs/ccs_base/msp430/include/in430.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/intrinsics.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/intrinsics_legacy_undefs.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/stdint.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/_ti_config.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/linkage.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/_stdint40.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/sys/stdint.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/sys/cdefs.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/sys/_types.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/machine/_types.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/machine/_stdint.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/sys/_stdint.h:
+
+C:/ECE2049_labs/ece2049a21_lab3_swkarkache_nvborrello/grlib/grlib.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/stdbool.h:
+
+C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-msp430_20.2.5.LTS/include/assert.h:
+
+C:/ECE2049_labs/ece2049a21_lab3_swkarkache_nvborrello/LcdDriver/Sharp96x96.h:
+
+C:/ECE2049_labs/ece2049a21_lab3_swkarkache_nvborrello/LcdDriver/HAL_MSP_EXP430FR5529_Sharp96x96.h:
+

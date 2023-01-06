@@ -1,0 +1,16 @@
+void displayTime(long unsigned int inTime);
+void displayTemp(float inAvgTempC);
+void initclk(void);
+void startTimer();
+void displayTimeAndTemp(long unsigned int inTime,float inAvgTempC);
+float averageTemp(float tempC[]);
+void initWheel(void);
+void initButtons(void);
+void initWheel(void);
+unsigned char getButton(void);
+void stopTimer(void);
+long unsigned int editMonth(long unsigned int capture_time);
+long unsigned int editDay(long unsigned int capture_time2);
+long unsigned int editHour(long unsigned int capture_time3);
+long unsigned int editMin(long unsigned int capture_time4);
+long unsigned int editSec(long unsigned int capture_time5);
